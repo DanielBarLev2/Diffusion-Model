@@ -13,8 +13,8 @@ Diffusion Models iteratively remove noise from random images to synthesize highl
 ## 🔥 Generated Samples (after 20 epochs)
 <table>
 <tr>
-<td align="center"><b>Unconditional Model</b><br><img src="runs/3440/plots/samples_epoch_20.png" width="375px"></td>
-<td align="center"><b>Conditional Model</b><br><img src="runs/cond8049/plots/samples_epoch_20.png" width="375px"></td>
+<td align="center"><b>Unconditional Model</b><br><img src="runs/3440/plots/samples_epoch_19.png" width="375px"></td>
+<td align="center"><b>Conditional Model</b><br><img src="runs/cond8049/plots/samples_epoch_19.png" width="375px"></td>
 </tr>
 </table>
 
@@ -22,7 +22,7 @@ Diffusion Models iteratively remove noise from random images to synthesize highl
 
 ## 📉 Training Curves
 <table><tr>
-<td><img src="runs/3440/plots/epoch_loss.png" width="375px"></td>
+<td><img src="runs/cond8049/plots/Batch_loss.png" width="375px"></td>
 <td><img src="runs/cond8049/plots/epoch_loss.png" width="375px"></td>
 </tr><tr>
 <td align="center"><b>Unconditional Model Loss</b></td>

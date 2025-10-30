@@ -1,7 +1,7 @@
 # Diffusion Models on MNIST
 
 ## Project Overview
-This project implements **Diffusion Probabilistic Models** (DDPMs) in PyTorch to generate MNIST-like handwritten digits. Both unconditional and conditional (class-guided) models are developed for research and educational purposes. This repository was created as part of a neural graphics coursework, showcasing key DL/AI skills for advanced CVs.
+This project implements **Diffusion Probabilistic Models** (DDPMs) in PyTorch to generate MNIST-like handwritten digits. Both unconditional and conditional (class-guided) models are developed for research and educational purposes. This repository was created as part of a neural graphics coursework.
 
 ---
 
